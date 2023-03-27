@@ -9,7 +9,7 @@ A simple smart contract that allows people to gift money along with a message.
 ## Usage
 ### Dependencies
 This contract depends on the following external libraries:
-
+- Foundry
 - solidity ^0.8.13
 - @openzeppelin/contracts/token/ERC721/IERC721.sol
 - @openzeppelin/contracts/token/ERC20/IERC20.sol
